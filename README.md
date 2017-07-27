@@ -1,6 +1,8 @@
 # OSE-Sprint-Lyman-Filament-Winder
 Documentation of the Lyman Filament Winder for Open Source Ecology replication workshops.
 
+## For people with Linux instead of Github desktop go for [Gitkraken](https://www.gitkraken.com/download) (is very similar)
+
 # Important point to make regarding Github usage and the proposition for OSE:
 Github will speedup the process of uploading, avoiding to upload manually each file we create, instead we create them in a replicated repository that can be easily updated. This Sprint should be seen as a test to improve our workflow; we are experimenting also with our team pushing the boundaries to get more agile. It is a way to evaluate if Github is a good plattform for us as it is for software.
 
