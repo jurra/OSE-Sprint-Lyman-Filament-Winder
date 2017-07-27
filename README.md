@@ -10,3 +10,9 @@ Please see the [github workflow](https://www.youtube.com/watch?v=2GO1a1vgNrc&ab_
 
 # Open Source workflow (2 minutes)
 See the video for [open source workflow](https://www.youtube.com/watch?v=4VY0kHqIqyU&ab_channel=freeCodeCamp) and how local storage is integrated on the workflow in a natural way without having to manually upload each file to the wiki. The repository structure that we have locally will be the same as shown on the web.
+
+# Steps for Preparation:
+
+1. Everybody should have (create) a github account.
+2. Add the collaborators of Open Source, to avoid forking allowing collaborators from the OSE to make commits directly in the master branch.
+3. Coming.....
