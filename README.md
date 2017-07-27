@@ -11,6 +11,10 @@ Please see the [github workflow](https://www.youtube.com/watch?v=2GO1a1vgNrc&ab_
 # Open Source workflow (2 minutes)
 See the video for [open source workflow](https://www.youtube.com/watch?v=4VY0kHqIqyU&ab_channel=freeCodeCamp) and how local storage is integrated on the workflow in a natural way without having to manually upload each file to the wiki. The repository structure that we have locally will be the same as shown on the web.
 
+## [See Full Freecodecamp playlist on git and github](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&ab_channel=freeCodeCamp). Recommended to understand OS workflow and philosophy.
+
+
+
 # Steps for Preparation:
 
 1. Everybody should have (create) a github account.
